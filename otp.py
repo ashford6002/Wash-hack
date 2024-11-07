@@ -11,7 +11,7 @@ Blue = Fore.BLUE
 
 def start()
    print(f"{Fore.GREEN} Hello dear JT is back")
-   print('loading.....)
+   print('loading.....')
    delay_print(f"{Fore.YELLOW}||||||●||||||||||||●||||||")
    ready = input("are you ready to get otp bypass")
    if ready==y or ready==yes:
