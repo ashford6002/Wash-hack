@@ -18,7 +18,7 @@ def start()
      vict = input("input victims number")
    elif vict < 11:
      print(vict)
-     print("|||loading|||)
+     print("|||loading|||")
      time.sleep(1)
      get = input("have you sent the verification code through WhatsApp")
    if get==yes or get==y
